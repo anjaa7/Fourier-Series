@@ -13,7 +13,11 @@ This repository includes:
   * A report detailing the methods and findings of the analysis ( In Serbian language )
 
 ## What is Fourier series?
-Fourier series is a mathematical tool used to represent periodic functions as the sum of a series of sine and cosine functions. It is often used in the field of signal processing to analyze and manipulate periodic signals, such as audio or image data.
+Fourier series is a mathematical tool used to represent periodic functions as the sum of a series of sine and cosine functions. It is often used in the field of signal processing to analyze and manipulate periodic signals, such as audio or image data. This repository contains code related to the calculation and visualization of the amplitude and phase spectra of periodic functions using the Fourier series.
+
+The amplitude spectrum of a periodic function is a representation of the amplitudes of the individual frequency components that make up the function. It is typically plotted as a function of frequency, with the amplitude of each frequency component represented by a point on the plot.
+
+The phase spectrum of a periodic function is a representation of the phases of the individual frequency components that make up the function. It is also typically plotted as a function of frequency, with the phase of each frequency component represented by a point on the plot.
 
 ## What is image convolution?
 Image convolution is a mathematical operation that takes an image as input and produces a modified version of the image as output. It is often used to apply specific image processing filters or effects, such as blurring or sharpening.
