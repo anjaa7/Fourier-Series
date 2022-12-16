@@ -33,6 +33,6 @@ This Project is written on Spyder 2018 version with Windows 11 Operating Sytstem
 
 Libraries used:
 * `import numpy as np`
-*`import sys`
+* `import sys`
 * `import matplotlib.pyplot as plt`
 
