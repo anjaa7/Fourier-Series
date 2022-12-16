@@ -22,10 +22,10 @@ The phase spectrum of a periodic function is a representation of the phases of t
 ## What is image convolution?
 Image convolution is a mathematical operation that takes an image as input and produces a modified version of the image as output. It is often used to apply specific image processing filters or effects, such as blurring or sharpening.
 <img src="https://github.com/anjaa7/siss/blob/main/images/img4.png?raw=true" width="200" />
-![original_photo](https://github.com/anjaa7/siss/blob/main/images/img4.png?raw=true) 
-![original_photo](https://github.com/anjaa7/siss/blob/main/images/img1.png?raw=true)
-![original_photo](https://github.com/anjaa7/siss/blob/main/images/img2.png?raw=true)
-![original_photo](https://github.com/anjaa7/siss/blob/main/images/img3.png?raw=true)
+<img src="https://github.com/anjaa7/siss/blob/main/images/img1.png?raw=true" width="200" />
+<img src="https://github.com/anjaa7/siss/blob/main/images/img2.png?raw=true" width="200" />
+<img src="https://github.com/anjaa7/siss/blob/main/images/img3.png?raw=true" width="200" />
+
 
 ## What is audio signal processing?
 Audio signal processing is the field of study concerned with the manipulation and analysis of audio signals. It involves techniques such as filtering, equalization, and compression, which are used to enhance or modify the characteristics of audio signals.
