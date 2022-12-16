@@ -27,12 +27,8 @@ You can also use the example images and audio files provided in the repository t
 
 I hope this repository is helpful to you! Thank you for visiting!
 
-# Signal-And-Systems
-* [General info](#general-info)
-* [Development Environment](#development-environment)
 
-
-# Development Environment
+## Development Environment
 This Project is written on Spyder 2018 version with Windows 11 Operating Sytstem.
 Libraries used:
 `import numpy as np`
