@@ -32,8 +32,14 @@ Image convolution is a mathematical operation that takes an image as input and p
 ## What is audio signal processing?
 Audio signal processing is the field of study concerned with the manipulation and analysis of audio signals. It involves techniques such as filtering, equalization, and compression, which are used to enhance or modify the characteristics of audio signals.
 
+<img src="https://github.com/anjaa7/siss/blob/main/images/img5.png?raw=true" width="300" /> 
+
 ## What is impulse response?
 In the context of audio signal processing, an impulse response is a measure of the response of a system to a brief input signal, often referred to as an "impulse." It can be used to characterize the frequency response of a system, such as a room or a piece of audio equipment, and can be used in convolution to apply the characteristics of the system to an audio signal.
+
+<img src="https://github.com/anjaa7/siss/blob/main/images/slika400.png?raw=true" width="300" /> <img src="https://github.com/anjaa7/siss/blob/main/images/slika401.png?raw=true" width="300" /> 
+<img src="https://github.com/anjaa7/siss/blob/main/images/slika402.png?raw=true" width="300" />  <img src="https://github.com/anjaa7/siss/blob/main/images/slika403.png?raw=true" width="300" /> 
+
 
 ## How can I use this repository?
 You can use this repository as a reference for how to apply Fourier series analysis, image convolution, and audio signal processing techniques using Python. The code and report included in the repository provide a detailed explanation of the steps taken and the results obtained.
