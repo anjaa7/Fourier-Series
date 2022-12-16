@@ -19,6 +19,9 @@ The amplitude spectrum of a periodic function is a representation of the amplitu
 
 The phase spectrum of a periodic function is a representation of the phases of the individual frequency components that make up the function. It is also typically plotted as a function of frequency, with the phase of each frequency component represented by a point on the plot.
 
+<img src="https://github.com/anjaa7/siss/blob/main/images/img5.png?raw=true" width="200" /> <img src="https://github.com/anjaa7/siss/blob/main/images/img6.png?raw=true" width="200" />
+<img src="https://github.com/anjaa7/siss/blob/main/images/img7.png?raw=true" width="200" /> 
+
 ## What is image convolution?
 Image convolution is a mathematical operation that takes an image as input and produces a modified version of the image as output. It is often used to apply specific image processing filters or effects, such as blurring or sharpening.
 
