@@ -36,8 +36,7 @@ Audio signal processing is the field of study concerned with the manipulation an
 ## What is impulse response?
 In the context of audio signal processing, an impulse response is a measure of the response of a system to a brief input signal, often referred to as an "impulse." It can be used to characterize the frequency response of a system, such as a room or a piece of audio equipment, and can be used in convolution to apply the characteristics of the system to an audio signal.
 
-<img src="https://github.com/anjaa7/siss/blob/main/images/slika400.png?raw=true" width="250" /> <img src="https://github.com/anjaa7/siss/blob/main/images/slika401.png?raw=true" width="250" /> 
-<img src="https://github.com/anjaa7/siss/blob/main/images/slika402.png?raw=true" width="250" />  <img src="https://github.com/anjaa7/siss/blob/main/images/slika403.png?raw=true" width="250" /> 
+<img src="https://github.com/anjaa7/siss/blob/main/images/slika400.png?raw=true" width="250" /> <img src="https://github.com/anjaa7/siss/blob/main/images/slika401.png?raw=true" width="250" />  <img src="https://github.com/anjaa7/siss/blob/main/images/slika402.png?raw=true" width="250" />  <img src="https://github.com/anjaa7/siss/blob/main/images/slika403.png?raw=true" width="250" /> 
 
 
 ## How can I use this repository?
