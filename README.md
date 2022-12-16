@@ -2,7 +2,7 @@
 
 This repository contains the code and resources related to an assignment on the topics such as Fourier series, image convolution, and audio signal processing.
 
-#What is included in this repository?
+# What is included in this repository?
 
 This repository includes:
 
