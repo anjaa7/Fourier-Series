@@ -57,4 +57,8 @@ Libraries used:
 * `import numpy as np`
 * `import sys`
 * `import matplotlib.pyplot as plt`
+* `import matplotlib.image as mpimg`
+* `from scipy import signal`
+* `from scipy.io import wavfile`
+* `import sounddevice as sd`
 
