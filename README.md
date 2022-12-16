@@ -26,6 +26,7 @@ The phase spectrum of a periodic function is a representation of the phases of t
 Image convolution is a mathematical operation that takes an image as input and produces a modified version of the image as output. It is often used to apply specific image processing filters or effects, such as blurring or sharpening.
 
 <img src="https://github.com/anjaa7/siss/blob/main/images/img4.png?raw=true" width="200" /> <img src="https://github.com/anjaa7/siss/blob/main/images/img1.png?raw=true" width="200" />
+
 <img src="https://github.com/anjaa7/siss/blob/main/images/img2.png?raw=true" width="200" /> <img src="https://github.com/anjaa7/siss/blob/main/images/img3.png?raw=true" width="200" />
 
 
@@ -36,7 +37,9 @@ Audio signal processing is the field of study concerned with the manipulation an
 ## What is impulse response?
 In the context of audio signal processing, an impulse response is a measure of the response of a system to a brief input signal, often referred to as an "impulse." It can be used to characterize the frequency response of a system, such as a room or a piece of audio equipment, and can be used in convolution to apply the characteristics of the system to an audio signal.
 
-<img src="https://github.com/anjaa7/siss/blob/main/images/slika400.png?raw=true" width="240" /> <img src="https://github.com/anjaa7/siss/blob/main/images/slika401.png?raw=true" width="240" />  <img src="https://github.com/anjaa7/siss/blob/main/images/slika402.png?raw=true" width="240" />  <img src="https://github.com/anjaa7/siss/blob/main/images/slika403.png?raw=true" width="240" /> 
+<img src="https://github.com/anjaa7/siss/blob/main/images/slika400.png?raw=true" width="240" /> <img src="https://github.com/anjaa7/siss/blob/main/images/slika401.png?raw=true" width="240" />
+
+<img src="https://github.com/anjaa7/siss/blob/main/images/slika402.png?raw=true" width="240" />  <img src="https://github.com/anjaa7/siss/blob/main/images/slika403.png?raw=true" width="240" /> 
 
 
 ## How can I use this repository?
