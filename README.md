@@ -33,7 +33,7 @@ I hope this repository is helpful to you! Thank you for visiting!
 
 
 ## Development Environment
-This Project is written on Spyder 2018 version with Windows 11 Operating Sytstem.
+This Project is written in Spyder.
 
 Libraries used:
 * `import numpy as np`
