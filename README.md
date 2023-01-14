@@ -50,9 +50,6 @@ You can also use the example images and audio files provided in the repository t
 I hope this repository is helpful to you! Thank you for visiting!
 
 
-## Development Environment
-This Project is written in Spyder.
-
 Libraries used:
 * `import numpy as np`
 * `import sys`
