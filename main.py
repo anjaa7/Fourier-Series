@@ -374,7 +374,7 @@ plt.show()
 
 sd.play(data,samplerate)
 
-samplerate_impulsni, impulsni_odziv = wavfile.read('C:\_Faks\Semestar III\SIS\Prvi domaci zadatak 22_23\Impulsni odzivi\Elveden Hall - Suffolk, England\elveden_hall_impulse_response.wav')
+samplerate_impulsni, impulsni_odziv = wavfile.read('\elveden_hall_impulse_response.wav')
 impulsni_odziv=impulsni_odziv/max(np.absolute(impulsni_odziv))
 dt_i=1/samplerate_impulsni
 t_i=np.arange(0,dt_i*len(impulsni_odziv),dt_i)
@@ -401,7 +401,7 @@ sd.play(scaled, samplerate)
 
 #%% 
 
-samplerate_impulsni, impulsni_odziv = wavfile.read('C:\_Faks\Semestar III\SIS\Prvi domaci zadatak 22_23\Impulsni odzivi\Central Hall - University of New York\central_hall_impulse_response.wav')
+samplerate_impulsni, impulsni_odziv = wavfile.read('\central_hall_impulse_response.wav')
 impulsni_odziv=impulsni_odziv/max(np.absolute(impulsni_odziv))
 dt_i=1/samplerate_impulsni
 t_i=np.arange(0,dt_i*len(impulsni_odziv),dt_i)
@@ -426,7 +426,7 @@ scaled = np.int16(odziv / np.max (np.abs (odziv)) * 32767)
 wavfile.write('konv_CentralHall.wav',samplerate, scaled.astype(np.float32))
 sd.play(scaled, samplerate)
 #%%
-samplerate_impulsni, impulsni_odziv = wavfile.read('C:\_Faks\Semestar III\SIS\Prvi domaci zadatak 22_23\Impulsni odzivi\Koli national park (in the summer) - Finland\koli_national_park_impulse_response.wav')
+samplerate_impulsni, impulsni_odziv = wavfile.read('\koli_national_park_impulse_response.wav')
 impulsni_odziv=impulsni_odziv/max(np.absolute(impulsni_odziv))
 dt_i=1/samplerate_impulsni
 t_i=np.arange(0,dt_i*len(impulsni_odziv),dt_i)
@@ -453,7 +453,7 @@ sd.play(scaled, samplerate)
 
 #%%
 
-samplerate_impulsni, impulsni_odziv = wavfile.read('C:\_Faks\Semestar III\SIS\Prvi domaci zadatak 22_23\Impulsni odzivi\Gillheads Mine - North Yorkshire, England\mine_impulse_response.wav')
+samplerate_impulsni, impulsni_odziv = wavfile.read('\mine_impulse_response.wav')
 impulsni_odziv=impulsni_odziv/max(np.absolute(impulsni_odziv))
 dt_i=1/samplerate_impulsni
 t_i=np.arange(0,dt_i*len(impulsni_odziv),dt_i)
@@ -493,7 +493,7 @@ sd.play(scaled, samplerate)
 def rgb2gray(rgb):
     return np.dot(rgb[...,:3], [0.2989, 0.5870, 0.1140])
 
-img = mpimg.imread('C:\_Faks\Semestar III\SIS\Prvi domaci zadatak 22_23\Test_slika.png')
+img = mpimg.imread('\Test_slika.png')
 img = rgb2gray(img)
 plt.figure()
 imgplot = plt.imshow(img, cmap=plt.get_cmap('gray'))
