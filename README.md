@@ -1,4 +1,4 @@
-# Welcome to the my System and Signals repository!
+# Fourier Series
 
 This repository contains the code and resources related to an assignment on the topics such as Fourier series, image convolution, and audio signal processing.
 
